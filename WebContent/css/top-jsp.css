@@ -1,0 +1,54 @@
+.logo {
+	height:100px;
+} 
+.logo .nav{
+	height:66px;
+}
+.logo .nav .top{
+	float:left;
+	width:6px;
+	height:66px;
+	background-image:url(images/menu_07.png);
+}
+.logo .nav .center{
+	float:right;
+	width:6px;
+	height:66px;
+	background-image:url(images/menu_08.png);
+}
+.logo .nav .bottom{
+	height:66px;
+	background-image:url(images/menu_09.png);
+	background-repeat:repeat-x;
+}
+.logo .nav .bottom ul{
+	list-style-type:none;
+}
+.logo .nav .bottom li{
+	float:left;
+	margin-top:5px;
+}
+.logo .nav .bottom ul li a,a:visited{
+text-decoration:none;
+display:block;
+color:white;
+width:100px;
+}
+.logo .nav .bottom ul li a:hover,a:active{
+color:red;
+}
+.logo .nav .bottom .rl{
+	display:block;
+	float:right;
+	margin-top:15px;
+	margin-right:10px;
+}
+.logo .nav .bottom .rl ul li a,a:visited{
+text-decoration:none;
+display:block;
+color:black;
+width:35px;
+}
+.logo .nav .bottom .rl ul li a:hover,a:active{
+color:red;
+}

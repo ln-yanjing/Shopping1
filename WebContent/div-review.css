@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.right{
+	
+	float:right;
+}
+.main{
+	width:1000px;
+	margin:auto;
+	background-color:azure;
+}

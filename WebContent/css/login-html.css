@@ -1,0 +1,48 @@
+body{
+background-color: #B7CEEB;
+}
+.one{
+margin:0 auto;
+width:900px;
+height:700px;
+background:url(images/22.jpg) no-repeat;
+}
+.two{
+border:3px solid #ccc;
+width:400px;
+height:450px;
+position:relative;
+left:150px;
+top:120px;
+border:2px solid white;
+border-radius:20px;
+}
+input{
+z-index:3;
+width:80%;
+height:30px;
+line-height:20px;
+margin-left:30px;
+margin-top:30px;
+border-radius:4px;
+font-size:20px;
+border:2px solid white;
+border-radius:20px;
+}
+.imgs{
+margin:40px 150px;
+}
+#username{
+background:none;
+background-image:url(images/2.jpg);
+background-repeat:no-repeat;
+background-position:5px center;
+text-indent:40px;
+}
+#password{
+background:none;
+background-image:url(images/3.jpg);
+background-repeat:no-repeat;
+background-position:5px center;
+text-indent:40px;
+}

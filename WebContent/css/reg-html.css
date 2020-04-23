@@ -1,0 +1,18 @@
+body{
+background-color: #B7CEEB;
+}
+fieldset{
+	width:800px;
+	margin-left:300px;
+	padding:0 20px;
+	background-color:#FFB6C1;
+}
+input{
+	width:98%;
+	height:30px;
+	border-radius:5px;
+	height:30px;
+	line-height:30px;
+	margin:10px auto;
+	background-color:#FFF0F5;
+}
